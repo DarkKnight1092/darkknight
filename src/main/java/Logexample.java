@@ -11,6 +11,7 @@ public class Logexample {
         logger.info("Info log message");
         logger.error("Error log message");
         System.out.println("Committed");
+        System.out.println("Committed 222222");
 
     }
 }
