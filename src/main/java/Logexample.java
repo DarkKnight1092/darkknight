@@ -10,5 +10,6 @@ public class Logexample {
         logger.debug("Debug log message");
         logger.info("Info log message");
         logger.error("Error log message");
+
     }
 }
