@@ -7,9 +7,9 @@ public class Enums {
     }
 
     public static void main(String []args){
-Gender gender;
-gender=Gender.Transgender;
-        System.out.println(gender);
+String str="abcabcabc";
+String substr="abc";
+     System.out.println(str.charAt(2));
 
     }
 }

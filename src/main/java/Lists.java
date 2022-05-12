@@ -12,6 +12,12 @@ import java.util.stream.Stream;
 public class Lists {
 
     public static void main (String []args){
+
+        String sft="ABC";
+        String tst="ABC";
+
+        System.out.println(sft.equals(tst));
+
         List<Integer> values= Arrays.asList(1,2,3,4,5,6,7,8,9,10);
         Predicate<Integer> p=new Predicate<Integer>() {
 
